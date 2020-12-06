@@ -1,0 +1,5 @@
+get shipBox perfectly centered (do the math?)
+
+positioning more specifically inside starship page
+
+-----------------

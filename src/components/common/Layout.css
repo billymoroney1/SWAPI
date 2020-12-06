@@ -1,0 +1,17 @@
+nav {
+    display: flex;
+    width: 100vw;
+    height: 100px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}

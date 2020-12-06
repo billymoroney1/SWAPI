@@ -1,0 +1,13 @@
+.shipInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 400px;
+    background-color: lightgreen;
+}
+
+.return {
+    justify-self: end;
+}
